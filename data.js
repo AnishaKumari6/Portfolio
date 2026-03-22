@@ -13,7 +13,7 @@ const PROJECTS = [
     emoji: "🤟",
     tag: "Power BI",
     desc: "Designed and deployed a fully interactive Power BI dashboard featuring KPIs, slicers, drill-through pages, and dynamic visualizations, enabling stakeholders to explore data efficiently and reducing insight discovery time. 🧠",
-    tags: ["Python", "OpenCV", "MediaPipe", "scikit-learn", "NumPy"],
+    tags: ["Power BI", "Power Query", "DAX", "Data Modeling", "Interactive Dashboards"],
     link: "https://github.com/AnishaKumari6/CRASH_DATASET_ANALYSIS",
     date: "Nov 2025"
   },
@@ -22,7 +22,7 @@ const PROJECTS = [
     emoji: "🗺️",
     tag: "Python",
     desc: "made dijkstra, BFS and DFS actually look cool. real-time grid, obstacle placement, and <30ms renders. algorithms finally hit different.",
-    tags: ["HTML", "CSS", "JavaScript", "Canvas API"],
+    tags: ["Python"," Pygame"," Graph Algorithms (BFS, DFS, Dijkstra)"],
     link: "https://github.com/AnishaKumari6/PathFinding_Puzzle_Solver",
     date: "Sep 2025"
   }
