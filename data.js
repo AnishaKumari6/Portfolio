@@ -180,6 +180,18 @@ const CERTIFICATES = [
     skills: ["Cloud", "EC2", "S3", "IAM", "Security", "Scaling"]
   },
   {
+    name: "Oracle Certified Professional – Certificate of Recognition",
+    issuer: "Oracle",
+    year: "Oct 2025",
+    emoji: "🏅",
+    color: "#6cf5e9",
+    previewBg: "#f5f0ff",
+    gradient: "linear-gradient(135deg, #6C3EFF, #a855f7)",
+    // Add your cert: previewImg: "images/certs/oracle.jpg"
+    previewImg: "images/oracle.png",
+    skills: ["Cloud","OracleCourse"]
+  },
+  {
     name: "NPTEL — Social Networks",
     issuer: "NPTEL · IIT",
     year: "Apr 2025",
