@@ -184,7 +184,7 @@ const CERTIFICATES = [
     issuer: "Oracle",
     year: "Oct 2025",
     emoji: "🏅",
-    color: "#6cf5e9",
+    color: "#332dab",
     previewBg: "#f5f0ff",
     gradient: "linear-gradient(135deg, #6C3EFF, #a855f7)",
     // Add your cert: previewImg: "images/certs/oracle.jpg"
