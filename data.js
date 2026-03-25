@@ -189,7 +189,7 @@ const CERTIFICATES = [
     gradient: "linear-gradient(135deg, #6C3EFF, #a855f7)",
     // Add your cert: previewImg: "images/certs/oracle.jpg"
     previewImg: "images/oracle.png",
-    skills: ["Cloud","OracleCourse"]
+    skills: ["Data Science","Machine Learning","Data Analysis","Data Visualization"]
   },
   {
     name: "NPTEL — Social Networks",
