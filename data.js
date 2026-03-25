@@ -180,7 +180,7 @@ const CERTIFICATES = [
     skills: ["Cloud", "EC2", "S3", "IAM", "Security", "Scaling"]
   },
   {
-    name: "Oracle Certified Professional – Certificate of Recognition",
+    name: "Oracle Cloud Infrastructure 2025 Certified Data Science Professional",
     issuer: "Oracle",
     year: "Oct 2025",
     emoji: "🏅",
