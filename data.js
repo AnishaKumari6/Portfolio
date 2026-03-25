@@ -169,7 +169,7 @@ const TRAINING = [
 const CERTIFICATES = [
   {
     name: "AWS Cloud Practitioner Essentials",
-    issuer: "Cloud",
+    issuer: "AWS",
     year: "Mar 2026",
     emoji: "🏆",
     color: "#F80000",
