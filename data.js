@@ -128,7 +128,7 @@ const EDUCATION = [
 
 const TRAINING = [
   {
-    title: "Mern Stack + Cloud Computing + Software Testing",
+    title: "Mern Stack + Cloud Computing + Devops",
     period: "Jan 2026 — Feb 2026",
     icon: "☁️",
     color: "#0ea5e9",
