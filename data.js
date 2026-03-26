@@ -10,7 +10,7 @@ const PROJECTS = [
   },
   {
     name: "Crash Dataset Analysis & Interactive Dashboard",
-    emoji: "🤟",
+    emoji: "📊",
     tag: "Power BI",
     desc: "Designed and deployed a fully interactive Power BI dashboard featuring KPIs, slicers, drill-through pages, and dynamic visualizations, enabling stakeholders to explore data efficiently and reducing insight discovery time. 🧠",
     tags: ["Power BI", "Power Query", "DAX", "Data Modeling", "Interactive Dashboards"],
@@ -129,6 +129,7 @@ const EDUCATION = [
 const TRAINING = [
   {
     title: "Mern Stack + Cloud Computing + Devops",
+    org:"Lovely Professional University",
     period: "Jan 2026 — Feb 2026",
     icon: "☁️",
     color: "#0ea5e9",
