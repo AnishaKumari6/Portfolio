@@ -24,8 +24,6 @@ function renderProjects() {
     c.appendChild(el);
   });
 }
-
-// ── INVERTED PYRAMID — category-aware ──────────────────
 function renderTechPyramid() {
   const pyramid = document.getElementById('techPyramid');
   if (!pyramid) return;
@@ -36,7 +34,6 @@ function renderTechPyramid() {
     cat.items.forEach(item => allItems.push({ ...item, catLabel: cat.label, catColor: cat.color }));
   });
 
-  // Build pyramid rows: 7, 6, 5, 4, 3, 2, 1
   const rowSizes = [7, 6, 5, 4, 3, 2, 1];
   let idx = 0;
   rowSizes.forEach(size => {
@@ -59,7 +56,6 @@ function renderTechPyramid() {
     pyramid.appendChild(rowEl);
   });
 
-  // Category legend
   const legend = document.createElement('div');
   legend.className = 'tech-legend';
   TECH_CATEGORIES.forEach(cat => {

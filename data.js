@@ -18,6 +18,15 @@ const PROJECTS = [
     date: "Nov 2025"
   },
   {
+    name: "Churn Prediction Dashboard",
+    emoji: "👥",
+    tag: "Predictive Analytics",
+    desc: "Designed and deployed an end-to-end customer churn prediction system using XGBoost, feature engineering, and data preprocessing, achieving a ROC-AUC score of 0.93 and 84% recall for identifying high-risk customers.Implemented machine learning inference, interactive Plotly visualizations, and customer retention recommendations, supporting both real-time and batch CSV predictions through an interactive Streamlit dashboard.",
+    tags: ["Python", "Streamlit", "XGBoost", "Scikit-learn", "Pandas", "NumPy", "Plotly", "Git", "GitHub"],
+    link: "https://github.com/AnishaKumari6/CRASH_DATASET_ANALYSIS",
+    date: "Nov 2025"
+  },
+  {
     name: "Pathfinding Puzzle Solver",
     emoji: "🗺️",
     tag: "Python",
@@ -29,8 +38,6 @@ const PROJECTS = [
 ];
 
 const BASE = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/";
-
-// Category-wise tech stack (flat list with category labels)
 const TECH_CATEGORIES = [
   {
     label: "Languages",
